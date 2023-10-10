@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @giuliasaccomano
-- 👀 I’m interested in micro-CT image elaboration and analysis using deep learning models
-- 🌱 I’m currently learning semantic segmentation method
-- 💞️ I’m looking to collaborate on image elaboration and analysis with deep learning models
-- 📫 How to reach me : skype giuli_pet, mail giulia.saccomano@phd.units.it
+- 👀 Phase-Contrast x-ray micro-CT image elaboration and analysis using Deep Learning models
+- 📫 How to reach me : mail giulietta.saccomano@hotmail.it
 
 <!---
 giuliasaccomano/giuliasaccomano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
